@@ -91,10 +91,8 @@ const Layout = ({ children }) => (
             position: 'absolute',
             width: '100%',
             height: '100%',
-            backgroundColor: 'rgb(5, 15, 45)',
-            // backgroundColor: '#003d66',
-            // backgroundImage:
-            //   "url('http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1237px-NASA_logo.svg.png')",
+            backgroundColor: '#050f2d',
+            // backgroundColor: 'rgb(5, 15, 45)',
             backgroundRepeat: 'no-repeat',
             backgroundSize: '20%',
             backgroundPosition: '50% 50%',
